@@ -1,7 +1,5 @@
 package io.zipcoder.currencyconverterapplication;
 
-import io.zipcoder.currencyconverterapplication.currencies.CanadianDollar;
-
 import java.util.HashMap;
 import java.util.Map;
 
